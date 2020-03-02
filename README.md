@@ -11,6 +11,9 @@ USTH ICT 2020 Distributed Systems
 Group Info
 =======================
 
-* Name 1 (ID1)
-* Name 2 (ID2)
+* Phan Manh Tung (USTHBI8-160)
+* Tran Kim Quoc Tuan (USTHBI8-159)
+* Ngo Thanh Tung (USTHBI8-163)
+* Duong Gia Bach (USTHBI7-020)
+* Ngo Anh Tung (USTHBI8-162)
 
