@@ -15,5 +15,5 @@ Group Info
 * Tran Kim Quoc Tuan (USTHBI8-159)
 * Ngo Thanh Tung (USTHBI8-163)
 * Duong Gia Bach (USTHBI7-020)
-* 
-
+* Tuong Duy Linh (USTHBI8-)
+* Dinh Van Luong (USTHBI8-)
