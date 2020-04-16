@@ -17,3 +17,5 @@ Group Info
 * Duong Gia Bach (USTHBI7-020)
 * Tuong Duy Linh (USTHBI8-)
 * Dinh Van Luong (USTHBI8-)
+
+Link to the google colab: https://colab.research.google.com/drive/1Xsycsq3qs_-4L8o78fgtkOxjFr51D8tf#scrollTo=DqQeHvkRctu1
